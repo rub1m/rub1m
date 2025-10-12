@@ -5,7 +5,7 @@
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/rub1m/)
 
 ![Rub1m GitHub stats](https://github-readme-stats.vercel.app/api?username=rub1m&show_icons=true&theme=transparent)
-## 🎓Formando em Sistemas de Informação pela UFRN
+## 🎓Formando em Trcnologia da Informação pela UFERSA
 ## 🌐Tecnologias que estudo
 <div style="display: inline_block"> <br/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
