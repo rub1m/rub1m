@@ -4,7 +4,6 @@
 [![linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rubens-guilherme-47885a1ab/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/rub1m/)
 
-![Rub1m GitHub stats](https://github-readme-stats.vercel.app/api?username=rub1m&show_icons=true&theme=transparent)
 ## 🎓Técnico em Redes de Computadores;
 ## 🎓Formando em Tecnologia da Informação pela UFERSA;
 ## 🌐Tecnologias que estudo
