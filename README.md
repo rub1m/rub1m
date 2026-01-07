@@ -1,5 +1,5 @@
 ### Olá, me chamo Rubens! 
-<img src="https://raw.githubusercontent.com/maestro/maestro/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maestro/output/snake.svg" alt="Snake animation" />
 
 ###
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rub1m_/)
