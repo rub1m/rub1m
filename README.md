@@ -19,5 +19,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rub1m/rub1m/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rub1m/rub1m/output/github-contribution-grid-snake.svg">
 </picture>
+##
 "Lute com determinação, abrace a vida com paixão, perca com classe e vença com ousadia, porque o mundo pertence a quem se atreve e a vida é muito para ser insignificante".
 -Augusto Branco
